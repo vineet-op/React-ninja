@@ -3,8 +3,12 @@
 /* base styles */
 * {
   margin: 0;
-  font-family: "Quicksand";
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   color: #333;
+}
+
+body{
+  background-color: #11FFBD;
 }
 .navbar {
   padding: 20px;
@@ -64,6 +68,8 @@
 .blog-details div {
   margin: 20px 0;
 }
+  
+
 .blog-details button {
   background: #f1356d;
   color: #fff;
